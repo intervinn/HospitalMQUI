@@ -1,0 +1,10 @@
+{
+  "ConnectionStrings": {
+    "SQLite":  "Data Source=data.db"
+  },
+  "RabbitMQ": {
+    "HostName": "localhost",
+    "UserName": "rmuser",
+    "Password":  "rmpass"
+  }
+}

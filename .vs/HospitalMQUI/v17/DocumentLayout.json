@@ -1,0 +1,457 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\quiet\\source\\repos\\HospitalMQUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B068D30D-E725-4E5B-A824-79224AEAC8C0}|HospitalMQ\\HospitalMQ.csproj|c:\\users\\quiet\\source\\repos\\hospitalmqui\\hospitalmq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B068D30D-E725-4E5B-A824-79224AEAC8C0}|HospitalMQ\\HospitalMQ.csproj|solutionrelative:hospitalmq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B068D30D-E725-4E5B-A824-79224AEAC8C0}|HospitalMQ\\HospitalMQ.csproj|c:\\users\\quiet\\source\\repos\\hospitalmqui\\hospitalmq\\services\\storageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B068D30D-E725-4E5B-A824-79224AEAC8C0}|HospitalMQ\\HospitalMQ.csproj|solutionrelative:hospitalmq\\services\\storageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B068D30D-E725-4E5B-A824-79224AEAC8C0}|HospitalMQ\\HospitalMQ.csproj|c:\\users\\quiet\\source\\repos\\hospitalmqui\\hospitalmq\\services\\messageconsumeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B068D30D-E725-4E5B-A824-79224AEAC8C0}|HospitalMQ\\HospitalMQ.csproj|solutionrelative:hospitalmq\\services\\messageconsumeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B068D30D-E725-4E5B-A824-79224AEAC8C0}|HospitalMQ\\HospitalMQ.csproj|c:\\users\\quiet\\source\\repos\\hospitalmqui\\hospitalmq\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B068D30D-E725-4E5B-A824-79224AEAC8C0}|HospitalMQ\\HospitalMQ.csproj|solutionrelative:hospitalmq\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6287CDA-598E-485C-86E2-9A74D96C61A1}|HospitalMQClient\\HospitalMQClient.csproj|c:\\users\\quiet\\source\\repos\\hospitalmqui\\hospitalmqclient\\views\\pages\\dashboardpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F6287CDA-598E-485C-86E2-9A74D96C61A1}|HospitalMQClient\\HospitalMQClient.csproj|solutionrelative:hospitalmqclient\\views\\pages\\dashboardpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6287CDA-598E-485C-86E2-9A74D96C61A1}|HospitalMQClient\\HospitalMQClient.csproj|c:\\users\\quiet\\source\\repos\\hospitalmqui\\hospitalmqclient\\views\\pages\\connectionpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F6287CDA-598E-485C-86E2-9A74D96C61A1}|HospitalMQClient\\HospitalMQClient.csproj|solutionrelative:hospitalmqclient\\views\\pages\\connectionpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6287CDA-598E-485C-86E2-9A74D96C61A1}|HospitalMQClient\\HospitalMQClient.csproj|c:\\users\\quiet\\source\\repos\\hospitalmqui\\hospitalmqclient\\views\\windows\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F6287CDA-598E-485C-86E2-9A74D96C61A1}|HospitalMQClient\\HospitalMQClient.csproj|solutionrelative:hospitalmqclient\\views\\windows\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6287CDA-598E-485C-86E2-9A74D96C61A1}|HospitalMQClient\\HospitalMQClient.csproj|c:\\users\\quiet\\source\\repos\\hospitalmqui\\hospitalmqclient\\views\\windows\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6287CDA-598E-485C-86E2-9A74D96C61A1}|HospitalMQClient\\HospitalMQClient.csproj|solutionrelative:hospitalmqclient\\views\\windows\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6287CDA-598E-485C-86E2-9A74D96C61A1}|HospitalMQClient\\HospitalMQClient.csproj|c:\\users\\quiet\\source\\repos\\hospitalmqui\\hospitalmqclient\\viewmodels\\pages\\connectionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6287CDA-598E-485C-86E2-9A74D96C61A1}|HospitalMQClient\\HospitalMQClient.csproj|solutionrelative:hospitalmqclient\\viewmodels\\pages\\connectionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6287CDA-598E-485C-86E2-9A74D96C61A1}|HospitalMQClient\\HospitalMQClient.csproj|c:\\users\\quiet\\source\\repos\\hospitalmqui\\hospitalmqclient\\viewmodels\\pages\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6287CDA-598E-485C-86E2-9A74D96C61A1}|HospitalMQClient\\HospitalMQClient.csproj|solutionrelative:hospitalmqclient\\viewmodels\\pages\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6287CDA-598E-485C-86E2-9A74D96C61A1}|HospitalMQClient\\HospitalMQClient.csproj|c:\\users\\quiet\\source\\repos\\hospitalmqui\\hospitalmqclient\\services\\messageproduceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6287CDA-598E-485C-86E2-9A74D96C61A1}|HospitalMQClient\\HospitalMQClient.csproj|solutionrelative:hospitalmqclient\\services\\messageproduceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF923F7-34EB-4CDE-A706-107491097277}|HospitalCommon\\HospitalCommon.csproj|c:\\users\\quiet\\source\\repos\\hospitalmqui\\hospitalcommon\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF923F7-34EB-4CDE-A706-107491097277}|HospitalCommon\\HospitalCommon.csproj|solutionrelative:hospitalcommon\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF923F7-34EB-4CDE-A706-107491097277}|HospitalCommon\\HospitalCommon.csproj|c:\\users\\quiet\\source\\repos\\hospitalmqui\\hospitalcommon\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF923F7-34EB-4CDE-A706-107491097277}|HospitalCommon\\HospitalCommon.csproj|solutionrelative:hospitalcommon\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6287CDA-598E-485C-86E2-9A74D96C61A1}|HospitalMQClient\\HospitalMQClient.csproj|c:\\users\\quiet\\source\\repos\\hospitalmqui\\hospitalmqclient\\views\\pages\\connectionpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6287CDA-598E-485C-86E2-9A74D96C61A1}|HospitalMQClient\\HospitalMQClient.csproj|solutionrelative:hospitalmqclient\\views\\pages\\connectionpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6287CDA-598E-485C-86E2-9A74D96C61A1}|HospitalMQClient\\HospitalMQClient.csproj|c:\\users\\quiet\\source\\repos\\hospitalmqui\\hospitalmqclient\\views\\pages\\dashboardpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6287CDA-598E-485C-86E2-9A74D96C61A1}|HospitalMQClient\\HospitalMQClient.csproj|solutionrelative:hospitalmqclient\\views\\pages\\dashboardpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6287CDA-598E-485C-86E2-9A74D96C61A1}|HospitalMQClient\\HospitalMQClient.csproj|c:\\users\\quiet\\source\\repos\\hospitalmqui\\hospitalmqclient\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6287CDA-598E-485C-86E2-9A74D96C61A1}|HospitalMQClient\\HospitalMQClient.csproj|solutionrelative:hospitalmqclient\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\quiet\\AppData\\Local\\Temp\\.vsdbgsrc\\3387177b3749539d9bbbcbabe50304b8d6f8a95cdfee2ad796068667ebf8aa3a\\CallSiteFactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6287CDA-598E-485C-86E2-9A74D96C61A1}|HospitalMQClient\\HospitalMQClient.csproj|c:\\users\\quiet\\source\\repos\\hospitalmqui\\hospitalmqclient\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F6287CDA-598E-485C-86E2-9A74D96C61A1}|HospitalMQClient\\HospitalMQClient.csproj|solutionrelative:hospitalmqclient\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6287CDA-598E-485C-86E2-9A74D96C61A1}|HospitalMQClient\\HospitalMQClient.csproj|c:\\users\\quiet\\source\\repos\\hospitalmqui\\hospitalmqclient\\services\\applicationhostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6287CDA-598E-485C-86E2-9A74D96C61A1}|HospitalMQClient\\HospitalMQClient.csproj|solutionrelative:hospitalmqclient\\services\\applicationhostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6287CDA-598E-485C-86E2-9A74D96C61A1}|HospitalMQClient\\HospitalMQClient.csproj|c:\\users\\quiet\\source\\repos\\hospitalmqui\\hospitalmqclient\\viewmodels\\windows\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6287CDA-598E-485C-86E2-9A74D96C61A1}|HospitalMQClient\\HospitalMQClient.csproj|solutionrelative:hospitalmqclient\\viewmodels\\windows\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\quiet\\AppData\\Local\\Temp\\.vsdbgsrc\\ab566e041689acc4ddb98c8bb90c3dd62d0c77eae27b860200b603fe066957ed\\NavigationView.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B068D30D-E725-4E5B-A824-79224AEAC8C0}|HospitalMQ\\HospitalMQ.csproj|c:\\users\\quiet\\source\\repos\\hospitalmqui\\hospitalmq\\models\\hospitalmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B068D30D-E725-4E5B-A824-79224AEAC8C0}|HospitalMQ\\HospitalMQ.csproj|solutionrelative:hospitalmq\\models\\hospitalmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B068D30D-E725-4E5B-A824-79224AEAC8C0}|HospitalMQ\\HospitalMQ.csproj|c:\\users\\quiet\\source\\repos\\hospitalmqui\\hospitalmq\\data.db||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B068D30D-E725-4E5B-A824-79224AEAC8C0}|HospitalMQ\\HospitalMQ.csproj|solutionrelative:hospitalmq\\data.db||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B068D30D-E725-4E5B-A824-79224AEAC8C0}|HospitalMQ\\HospitalMQ.csproj|c:\\users\\quiet\\source\\repos\\hospitalmqui\\hospitalmq\\hospitalmq.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B068D30D-E725-4E5B-A824-79224AEAC8C0}|HospitalMQ\\HospitalMQ.csproj|solutionrelative:hospitalmq\\hospitalmq.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B068D30D-E725-4E5B-A824-79224AEAC8C0}|HospitalMQ\\HospitalMQ.csproj|c:\\users\\quiet\\source\\repos\\hospitalmqui\\hospitalmq\\config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B068D30D-E725-4E5B-A824-79224AEAC8C0}|HospitalMQ\\HospitalMQ.csproj|solutionrelative:hospitalmq\\config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6287CDA-598E-485C-86E2-9A74D96C61A1}|HospitalMQClient\\HospitalMQClient.csproj|c:\\users\\quiet\\source\\repos\\hospitalmqui\\hospitalmqclient\\hospitalmqclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F6287CDA-598E-485C-86E2-9A74D96C61A1}|HospitalMQClient\\HospitalMQClient.csproj|solutionrelative:hospitalmqclient\\hospitalmqclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 25,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CallSiteFactory.cs",
+              "DocumentMoniker": "C:\\Users\\quiet\\AppData\\Local\\Temp\\.vsdbgsrc\\3387177b3749539d9bbbcbabe50304b8d6f8a95cdfee2ad796068667ebf8aa3a\\CallSiteFactory.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\3387177b3749539d9bbbcbabe50304b8d6f8a95cdfee2ad796068667ebf8aa3a\\CallSiteFactory.cs",
+              "ToolTip": "C:\\Users\\quiet\\AppData\\Local\\Temp\\.vsdbgsrc\\3387177b3749539d9bbbcbabe50304b8d6f8a95cdfee2ad796068667ebf8aa3a\\CallSiteFactory.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\3387177b3749539d9bbbcbabe50304b8d6f8a95cdfee2ad796068667ebf8aa3a\\CallSiteFactory.cs [Read Only]",
+              "ViewState": "AgIAABcCAAAAAAAAAAAvwCQCAAAFAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T15:22:40.876Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "app.manifest",
+              "DocumentMoniker": "C:\\Users\\quiet\\source\\repos\\HospitalMQUI\\HospitalMQClient\\app.manifest",
+              "RelativeDocumentMoniker": "HospitalMQClient\\app.manifest",
+              "ToolTip": "C:\\Users\\quiet\\source\\repos\\HospitalMQUI\\HospitalMQClient\\app.manifest",
+              "RelativeToolTip": "HospitalMQClient\\app.manifest",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvw8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
+              "WhenOpened": "2025-07-26T15:05:03.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "NavigationView.cs",
+              "DocumentMoniker": "C:\\Users\\quiet\\AppData\\Local\\Temp\\.vsdbgsrc\\ab566e041689acc4ddb98c8bb90c3dd62d0c77eae27b860200b603fe066957ed\\NavigationView.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\ab566e041689acc4ddb98c8bb90c3dd62d0c77eae27b860200b603fe066957ed\\NavigationView.cs",
+              "ToolTip": "C:\\Users\\quiet\\AppData\\Local\\Temp\\.vsdbgsrc\\ab566e041689acc4ddb98c8bb90c3dd62d0c77eae27b860200b603fe066957ed\\NavigationView.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\ab566e041689acc4ddb98c8bb90c3dd62d0c77eae27b860200b603fe066957ed\\NavigationView.cs [Read Only]",
+              "ViewState": "AgIAAJsEAAAAAAAAAAAvwKgEAAAAAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T15:01:50.714Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConnectionViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\quiet\\source\\repos\\HospitalMQUI\\HospitalMQClient\\ViewModels\\Pages\\ConnectionViewModel.cs",
+              "RelativeDocumentMoniker": "HospitalMQClient\\ViewModels\\Pages\\ConnectionViewModel.cs",
+              "ToolTip": "C:\\Users\\quiet\\source\\repos\\HospitalMQUI\\HospitalMQClient\\ViewModels\\Pages\\ConnectionViewModel.cs",
+              "RelativeToolTip": "HospitalMQClient\\ViewModels\\Pages\\ConnectionViewModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T14:55:29.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DashboardPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\quiet\\source\\repos\\HospitalMQUI\\HospitalMQClient\\Views\\Pages\\DashboardPage.xaml.cs",
+              "RelativeDocumentMoniker": "HospitalMQClient\\Views\\Pages\\DashboardPage.xaml.cs",
+              "ToolTip": "C:\\Users\\quiet\\source\\repos\\HospitalMQUI\\HospitalMQClient\\Views\\Pages\\DashboardPage.xaml.cs",
+              "RelativeToolTip": "HospitalMQClient\\Views\\Pages\\DashboardPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T14:55:18.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ConnectionPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\quiet\\source\\repos\\HospitalMQUI\\HospitalMQClient\\Views\\Pages\\ConnectionPage.xaml.cs",
+              "RelativeDocumentMoniker": "HospitalMQClient\\Views\\Pages\\ConnectionPage.xaml.cs",
+              "ToolTip": "C:\\Users\\quiet\\source\\repos\\HospitalMQUI\\HospitalMQClient\\Views\\Pages\\ConnectionPage.xaml.cs",
+              "RelativeToolTip": "HospitalMQClient\\Views\\Pages\\ConnectionPage.xaml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T14:55:13.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConnectionPage.xaml",
+              "DocumentMoniker": "C:\\Users\\quiet\\source\\repos\\HospitalMQUI\\HospitalMQClient\\Views\\Pages\\ConnectionPage.xaml",
+              "RelativeDocumentMoniker": "HospitalMQClient\\Views\\Pages\\ConnectionPage.xaml",
+              "ToolTip": "C:\\Users\\quiet\\source\\repos\\HospitalMQUI\\HospitalMQClient\\Views\\Pages\\ConnectionPage.xaml",
+              "RelativeToolTip": "HospitalMQClient\\Views\\Pages\\ConnectionPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-26T14:55:06.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\quiet\\source\\repos\\HospitalMQUI\\HospitalMQClient\\App.xaml.cs",
+              "RelativeDocumentMoniker": "HospitalMQClient\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\quiet\\source\\repos\\HospitalMQUI\\HospitalMQClient\\App.xaml.cs",
+              "RelativeToolTip": "HospitalMQClient\\App.xaml.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAACEAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T14:37:07.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "data.db",
+              "DocumentMoniker": "C:\\Users\\quiet\\source\\repos\\HospitalMQUI\\HospitalMQ\\data.db",
+              "RelativeDocumentMoniker": "HospitalMQ\\data.db",
+              "ToolTip": "C:\\Users\\quiet\\source\\repos\\HospitalMQUI\\HospitalMQ\\data.db",
+              "RelativeToolTip": "HospitalMQ\\data.db",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGHSURBVDhPjZPNSxtBGIefXTcSYlv2T1CKWAVFSgsVvClCexBEqteK5yJEl22gheLBD4KCIPpneGwp4hcKNdQqiGDxkNBW8WI\u002BDtltkp2Ml\u002B6iO8b4wMB8/N6HeWFG4z8J20qDbPbXKlrGqzKUTCaPgi0pZTBP2FOyXC7XHAl7Sk5//pSzLKs7KAL0m4t6vBsbNx83RTdvSh4sME2T1ZVlXNc1DV1uhs\u002BVFtZ3f8hvOymlFb8dv065wclZhq/b\u002B2Rzea6yOda\u002BbPHz\u002BDQcC1AEhq7jOC4vutp52d2B4zoYhhILUE48IahUyoiqoCoEXqWC54lwLEARlEolNGBrL8XG7nc0DVIHhzjuv3AU7hI873zGyOAATx7FEJ7g4vKc33//MLe4xOmvs3BcFfgMvenndV8vhXyBmY82\u002BWyWaLQxHKstACgWHQwd3sctIpGGWy/X515BW\u002BtTPsQn6O15xcLcDC3N6le5VwDQFIsx\u002BnY4vB1QV1APzZ8k7Mk0aOod70RmZucXWgCuAZnTw6qHi\u002BiqAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-07-26T14:21:50.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StorageService.cs",
+              "DocumentMoniker": "C:\\Users\\quiet\\source\\repos\\HospitalMQUI\\HospitalMQ\\Services\\StorageService.cs",
+              "RelativeDocumentMoniker": "HospitalMQ\\Services\\StorageService.cs",
+              "ToolTip": "C:\\Users\\quiet\\source\\repos\\HospitalMQUI\\HospitalMQ\\Services\\StorageService.cs",
+              "RelativeToolTip": "HospitalMQ\\Services\\StorageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T14:12:06.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "config.json",
+              "DocumentMoniker": "C:\\Users\\quiet\\source\\repos\\HospitalMQUI\\HospitalMQ\\config.json",
+              "RelativeDocumentMoniker": "HospitalMQ\\config.json",
+              "ToolTip": "C:\\Users\\quiet\\source\\repos\\HospitalMQUI\\HospitalMQ\\config.json",
+              "RelativeToolTip": "HospitalMQ\\config.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-26T14:08:20.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "HospitalMQClient",
+              "DocumentMoniker": "C:\\Users\\quiet\\source\\repos\\HospitalMQUI\\HospitalMQClient\\HospitalMQClient.csproj",
+              "RelativeDocumentMoniker": "HospitalMQClient\\HospitalMQClient.csproj",
+              "ToolTip": "C:\\Users\\quiet\\source\\repos\\HospitalMQUI\\HospitalMQClient\\HospitalMQClient.csproj",
+              "RelativeToolTip": "HospitalMQClient\\HospitalMQClient.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvygAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-26T12:47:06.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MessageConsumeService.cs",
+              "DocumentMoniker": "C:\\Users\\quiet\\source\\repos\\HospitalMQUI\\HospitalMQ\\Services\\MessageConsumeService.cs",
+              "RelativeDocumentMoniker": "HospitalMQ\\Services\\MessageConsumeService.cs",
+              "ToolTip": "C:\\Users\\quiet\\source\\repos\\HospitalMQUI\\HospitalMQ\\Services\\MessageConsumeService.cs",
+              "RelativeToolTip": "HospitalMQ\\Services\\MessageConsumeService.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAgwFEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T11:50:05.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MessageProduceService.cs",
+              "DocumentMoniker": "C:\\Users\\quiet\\source\\repos\\HospitalMQUI\\HospitalMQClient\\Services\\MessageProduceService.cs",
+              "RelativeDocumentMoniker": "HospitalMQClient\\Services\\MessageProduceService.cs",
+              "ToolTip": "C:\\Users\\quiet\\source\\repos\\HospitalMQUI\\HospitalMQClient\\Services\\MessageProduceService.cs",
+              "RelativeToolTip": "HospitalMQClient\\Services\\MessageProduceService.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAFMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T12:23:48.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApplicationHostService.cs",
+              "DocumentMoniker": "C:\\Users\\quiet\\source\\repos\\HospitalMQUI\\HospitalMQClient\\Services\\ApplicationHostService.cs",
+              "RelativeDocumentMoniker": "HospitalMQClient\\Services\\ApplicationHostService.cs",
+              "ToolTip": "C:\\Users\\quiet\\source\\repos\\HospitalMQUI\\HospitalMQClient\\Services\\ApplicationHostService.cs",
+              "RelativeToolTip": "HospitalMQClient\\Services\\ApplicationHostService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T12:23:36.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DashboardViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\quiet\\source\\repos\\HospitalMQUI\\HospitalMQClient\\ViewModels\\Pages\\DashboardViewModel.cs",
+              "RelativeDocumentMoniker": "HospitalMQClient\\ViewModels\\Pages\\DashboardViewModel.cs",
+              "ToolTip": "C:\\Users\\quiet\\source\\repos\\HospitalMQUI\\HospitalMQClient\\ViewModels\\Pages\\DashboardViewModel.cs",
+              "RelativeToolTip": "HospitalMQClient\\ViewModels\\Pages\\DashboardViewModel.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwDIAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T12:17:59.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DashboardPage.xaml",
+              "DocumentMoniker": "C:\\Users\\quiet\\source\\repos\\HospitalMQUI\\HospitalMQClient\\Views\\Pages\\DashboardPage.xaml",
+              "RelativeDocumentMoniker": "HospitalMQClient\\Views\\Pages\\DashboardPage.xaml",
+              "ToolTip": "C:\\Users\\quiet\\source\\repos\\HospitalMQUI\\HospitalMQClient\\Views\\Pages\\DashboardPage.xaml",
+              "RelativeToolTip": "HospitalMQClient\\Views\\Pages\\DashboardPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-26T12:17:50.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\quiet\\source\\repos\\HospitalMQUI\\HospitalMQClient\\ViewModels\\Windows\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "HospitalMQClient\\ViewModels\\Windows\\MainWindowViewModel.cs",
+              "ToolTip": "C:\\Users\\quiet\\source\\repos\\HospitalMQUI\\HospitalMQClient\\ViewModels\\Windows\\MainWindowViewModel.cs",
+              "RelativeToolTip": "HospitalMQClient\\ViewModels\\Windows\\MainWindowViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T11:37:36.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\quiet\\source\\repos\\HospitalMQUI\\HospitalMQClient\\Views\\Windows\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "HospitalMQClient\\Views\\Windows\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\quiet\\source\\repos\\HospitalMQUI\\HospitalMQClient\\Views\\Windows\\MainWindow.xaml.cs",
+              "RelativeToolTip": "HospitalMQClient\\Views\\Windows\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACMAAAB/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T11:37:31.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\quiet\\source\\repos\\HospitalMQUI\\HospitalMQClient\\Views\\Windows\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "HospitalMQClient\\Views\\Windows\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\quiet\\source\\repos\\HospitalMQUI\\HospitalMQClient\\Views\\Windows\\MainWindow.xaml",
+              "RelativeToolTip": "HospitalMQClient\\Views\\Windows\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-26T11:37:23.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HospitalMessage.cs",
+              "DocumentMoniker": "C:\\Users\\quiet\\source\\repos\\HospitalMQUI\\HospitalMQ\\Models\\HospitalMessage.cs",
+              "RelativeDocumentMoniker": "HospitalMQ\\Models\\HospitalMessage.cs",
+              "ToolTip": "C:\\Users\\quiet\\source\\repos\\HospitalMQUI\\HospitalMQ\\Models\\HospitalMessage.cs",
+              "RelativeToolTip": "HospitalMQ\\Models\\HospitalMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T11:30:50.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\quiet\\source\\repos\\HospitalMQUI\\HospitalMQ\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "HospitalMQ\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\quiet\\source\\repos\\HospitalMQUI\\HospitalMQ\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "HospitalMQ\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T11:50:59.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\quiet\\source\\repos\\HospitalMQUI\\HospitalCommon\\Doctor.cs",
+              "RelativeDocumentMoniker": "HospitalCommon\\Doctor.cs",
+              "ToolTip": "C:\\Users\\quiet\\source\\repos\\HospitalMQUI\\HospitalCommon\\Doctor.cs",
+              "RelativeToolTip": "HospitalCommon\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T11:45:13.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "HospitalMQ.csproj",
+              "DocumentMoniker": "C:\\Users\\quiet\\source\\repos\\HospitalMQUI\\HospitalMQ\\HospitalMQ.csproj",
+              "RelativeDocumentMoniker": "HospitalMQ\\HospitalMQ.csproj",
+              "ToolTip": "C:\\Users\\quiet\\source\\repos\\HospitalMQUI\\HospitalMQ\\HospitalMQ.csproj",
+              "RelativeToolTip": "HospitalMQ\\HospitalMQ.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-25T11:41:08.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\quiet\\source\\repos\\HospitalMQUI\\HospitalCommon\\Patient.cs",
+              "RelativeDocumentMoniker": "HospitalCommon\\Patient.cs",
+              "ToolTip": "C:\\Users\\quiet\\source\\repos\\HospitalMQUI\\HospitalCommon\\Patient.cs",
+              "RelativeToolTip": "HospitalCommon\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T11:28:07.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\quiet\\source\\repos\\HospitalMQUI\\HospitalMQ\\Program.cs",
+              "RelativeDocumentMoniker": "HospitalMQ\\Program.cs",
+              "ToolTip": "C:\\Users\\quiet\\source\\repos\\HospitalMQUI\\HospitalMQ\\Program.cs",
+              "RelativeToolTip": "HospitalMQ\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T11:27:29.288Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

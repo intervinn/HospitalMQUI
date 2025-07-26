@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "HospitalMQ": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

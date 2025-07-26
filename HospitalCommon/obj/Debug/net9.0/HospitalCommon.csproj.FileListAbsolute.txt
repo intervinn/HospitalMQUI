@@ -1,0 +1,11 @@
+C:\Users\quiet\source\repos\HospitalMQUI\HospitalCommon\bin\Debug\net9.0\HospitalCommon.deps.json
+C:\Users\quiet\source\repos\HospitalMQUI\HospitalCommon\bin\Debug\net9.0\HospitalCommon.dll
+C:\Users\quiet\source\repos\HospitalMQUI\HospitalCommon\bin\Debug\net9.0\HospitalCommon.pdb
+C:\Users\quiet\source\repos\HospitalMQUI\HospitalCommon\obj\Debug\net9.0\HospitalCommon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quiet\source\repos\HospitalMQUI\HospitalCommon\obj\Debug\net9.0\HospitalCommon.AssemblyInfoInputs.cache
+C:\Users\quiet\source\repos\HospitalMQUI\HospitalCommon\obj\Debug\net9.0\HospitalCommon.AssemblyInfo.cs
+C:\Users\quiet\source\repos\HospitalMQUI\HospitalCommon\obj\Debug\net9.0\HospitalCommon.csproj.CoreCompileInputs.cache
+C:\Users\quiet\source\repos\HospitalMQUI\HospitalCommon\obj\Debug\net9.0\HospitalCommon.dll
+C:\Users\quiet\source\repos\HospitalMQUI\HospitalCommon\obj\Debug\net9.0\refint\HospitalCommon.dll
+C:\Users\quiet\source\repos\HospitalMQUI\HospitalCommon\obj\Debug\net9.0\HospitalCommon.pdb
+C:\Users\quiet\source\repos\HospitalMQUI\HospitalCommon\obj\Debug\net9.0\ref\HospitalCommon.dll
